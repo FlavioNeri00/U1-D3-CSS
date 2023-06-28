@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'PT Serif', serif;
+}
+
+header{
+    text-align: center;
+}
+
+.logo{
+    margin: 1em;
+    width: 10%;
+}
+
+
+.first-line{
+    background-color: rgb(255, 250, 234);
+    height: 6vh;
+    text-align: center;
+}
+
+.first-line hr{
+    margin: 0;
+    border: 0;
+    height: 2px;
+    background-color: rgb(255, 223, 164);
+}
+
+.first-line p{
+    color: #147474
+}
+
+main{
+    width: 40vw;
+    margin: 0 auto;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.author{
+    color: grey;
+    text-align: center;
+}
+
+.link{
+    border-left: 1px solid;
+    color: orange;
+}
+
+.link p{
+    color: rgb(189, 117, 0);
+    margin-left: 15px;
+    margin-bottom: 0;
+}
+
+.link a{
+    margin-top: 0;
+    color: #2c9098;
+    margin-left: 15px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+h4{
+    font-size: 20px;
+}
+    
+ol{
+    margin-left: 0;
+}
+
+ol li{
+    font-size: 18px;
+}
+
+li{
+    margin: 10px;
+}
+
+.other-lines{
+    border: 0;
+    height: 1px;
+    background-color: #c7f1f1;
+}
+
+.method-description{
+    margin-left: 48px;
+}
+
+footer{
+    width: 40vw;
+    margin: 0 auto;
+}
+
+a{
+    color: #2c9098;
+}
