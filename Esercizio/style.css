@@ -38,6 +38,12 @@ main{
     
 }
 
+main img{
+    border-radius: 11px;
+    box-shadow: 2px 2px 7px;;
+
+}
+
 h1{
     text-align: center;
 }
